@@ -23,7 +23,7 @@ A fun HTML page showcasing cat photos, built while learning semantic structure a
 - 🛠️ **Tools**: HTML5
 
 ---
-### 2. 🇨🇦 Travel Agency Page
+### 3. 🇨🇦 Travel Agency Page
 
 A very basic HTML5 Travel Agency page built while reviewing basic HTML structures along with learning about the figcaption, anchor, and figure elements.
 
