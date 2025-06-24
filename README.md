@@ -1,6 +1,6 @@
-# 🗂️ Personal Projects Repository
+# 🗂️ Recipe Page
 
-This repository contains all of my personal projects.
+This repository contains all of my personal projects. Its called the Recipe Page because this is where I cook.
 
 ## 📁 Projects
 
