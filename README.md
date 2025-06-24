@@ -25,7 +25,7 @@ A fun HTML page showcasing cat photos, built while learning semantic structure a
 ---
 ### 2. 🇨🇦 Travel Agency Page
 
-A very basic HTML5 Travel Agency page built while learning semantic structure of HTML.
+A very basic HTML5 Travel Agency page built while reviewing basic HTML structures along with learning about the figcaption, anchor, and figure elements.
 
 - 🔗 **Live site**: [View Page](https://m-valdy.github.io/Recipe-Page/travel_agency_page.html)
 - 📄 **File**: `travel_agency_page.html`
