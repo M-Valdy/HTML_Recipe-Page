@@ -32,7 +32,15 @@ A very basic HTML5 Travel Agency page built while reviewing basic HTML structure
 - 🛠️ **Tools**: HTML5
 
 ---
+### 4. 🇻🇦 Traditional Mysteries of The Rosary Video Compilation
 
+A simple HTML Page containing videos with the three traditional mysteries of the rosary (excluding Luminous), 
+mostly built to learn about iframe and its attributes.
+- 🔗 **Live site**: [View Video Compilation](https://m-valdy.github.io/Recipe-Page/video_compilation.html)
+- 📄 **File**: `video_compilation.html`
+- 🛠️ **Tools**: HTML5
+
+---
 ## 🚀 Deployment
 
 These projects are deployed via **GitHub Pages**.  
