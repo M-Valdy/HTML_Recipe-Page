@@ -32,7 +32,7 @@ A very basic HTML5 Travel Agency page built while reviewing basic HTML structure
 - 🛠️ **Tools**: HTML5
 
 ---
-### 4. 🇻🇦 Traditional Mysteries of The Rosary Video Compilation
+### 4. 🇻🇦 Video Compilation
 
 A simple HTML Page containing videos with the three traditional mysteries of the rosary (excluding Luminous), 
 mostly built to learn about iframe and its attributes.
@@ -40,6 +40,12 @@ mostly built to learn about iframe and its attributes.
 - 📄 **File**: `video_compilation.html`
 - 🛠️ **Tools**: HTML5
 
+---
+### 5. 🐾 Cat Blog Page
+A simple HTML blog about Mr. Whiskers using semantic elements including the main, nav, article and footer elements of HTML.
+- 🔗 **Live site**: [View Blog Page](https://m-valdy.github.io/Recipe-Page/cat_blog_page.html)
+- 📄 **File**: `cat_blog_page.html`
+- 🛠️ **Tools**: HTML5
 ---
 ## 🚀 Deployment
 
