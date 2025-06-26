@@ -41,11 +41,20 @@ mostly built to learn about iframe and its attributes.
 -  **Tools**: HTML5
 
 ---
-### 5. 🐾 Cat Blog Page
+### 5. 🐾 Blog Page
 A simple HTML blog about Mr. Whiskers using semantic elements including the main, nav, article and footer elements of HTML.
 -  **Live site**: [View Blog Page](https://m-valdy.github.io/Recipe-Page/cat_blog_page.html)
 -  **File**: `cat_blog_page.html`
 -  **Tools**: HTML5
+
+---
+### 6. 💻 Event Hub
+A simple HTML page containing pictures and descriptions with some of the events in MRUHacks, mostly involved reviewing semantic HTML. 
+- **Live site**: [View Event Hub] (https://m-valdy.github.io/Recipe-Page/event_hub.html)
+- **File**: `event_hub.html`
+- **Tools**: HTML5
+
+
 ---
 ##  Deployment
 
