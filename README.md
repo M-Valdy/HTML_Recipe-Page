@@ -1,6 +1,6 @@
-#  Recipe Page
+#  HTML Recipe Page
 
-This repository contains all of my personal projects. Its called the Recipe Page because this is where I cook.
+This repository contains all of the personal projects that I did in FreeCodeCamp in Pure HTML. Its called the Recipe Page because this is where I cook. Other recipes (Python, CSS, etc. ) will come in later through an entirely different repository.
 
 ##  Projects
 
