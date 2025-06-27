@@ -50,14 +50,14 @@ A simple HTML blog about Mr. Whiskers using semantic elements including the main
 ---
 ### 6. 💻 Event Hub
 A simple HTML page containing pictures and descriptions with some of the events in MRUHacks, mostly involved reviewing semantic HTML. 
-- **Live site**: [View Event Hub] (https://m-valdy.github.io/Recipe-Page/event_hub.html)
+- **Live site**: [View Event Hub](https://m-valdy.github.io/Recipe-Page/event_hub.html)
 - **File**: `event_hub.html`
 - **Tools**: HTML5
 
 ---
 ### 7. 🏨 Hotel Feedback Page
 A simple HTML form that was mostly made to learn new elements such as labels, inputs, fieldsets, legends, textareas and buttons.
-- **Live site**: [View Feedback Page] (https://m-valdy.github.io/Recipe-Page/hotel_feedback_page.html)
+- **Live site**: [View Feedback Page](https://m-valdy.github.io/Recipe-Page/hotel_feedback_page.html)
 - **File**: `hotel_feedback_page.html`
 - **Tools**: HTML5
 
