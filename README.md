@@ -54,7 +54,12 @@ A simple HTML page containing pictures and descriptions with some of the events 
 - **File**: `event_hub.html`
 - **Tools**: HTML5
 
-
+---
+### 7. 🏨 Hotel Feedback Page
+A simple HTML form that was mostly made to learn new elements such as labels, inputs, fieldsets, legends, textareas and buttons.
+- **Live site**: [View Feedback Page] (https://m-valdy.github.io/Recipe-Page/hotel_feedback_page.html)
+- **File**: `hotel_feedback_page.html`
+- **Tools**: HTML5
 ---
 ##  Deployment
 
