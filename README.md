@@ -60,6 +60,7 @@ A simple HTML form that was mostly made to learn new elements such as labels, in
 - **Live site**: [View Feedback Page] (https://m-valdy.github.io/Recipe-Page/hotel_feedback_page.html)
 - **File**: `hotel_feedback_page.html`
 - **Tools**: HTML5
+
 ---
 ##  Deployment
 
