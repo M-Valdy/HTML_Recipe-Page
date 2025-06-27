@@ -62,6 +62,13 @@ A simple HTML form that was mostly made to learn new elements such as labels, in
 - **Tools**: HTML5
 
 ---
+### 8. 📋 Survey Form
+A simple HTML survey form that surveys how much you like this repository (it doesn't actually work since idk backend)
+- **Live site**: [View Form](https://m-valdy.github.io/Recipe-Page/survey_form.html)
+- **File**: `survey_form.html`
+- **Tools**: HTML5
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  

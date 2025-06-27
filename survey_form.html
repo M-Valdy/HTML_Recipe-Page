@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!--Header goes here-->
+  <head>
+    <meta charset="UTF-8" />
+    <title>Survey Form</title>
+  </head>
+  <!--Body goes here-->
+  <body>
+    <!--Header goes here-->
+    <header>
+    <h1 id="title">HTML Recipe Page Survey Form</h1>
+    <p id="description">This is a survey that rates every single project I've done so far in this Github Repository. Thank you for your feedback (sike idk backend so idk your feedback lmao)</p>
+    </header>
+    <!--Form starts here-->
+    <form id="survey-form">
+      <!--Personal Information Part of Form-->
+      <fieldset>
+      <legend>Personal Info</legend>
+      <label for="name" id="name-label">Name:</label>
+      <input type="text" id="name" name="name" placeholder="M-Valdy" required/>
+      <label for="email" id="email-label" >Email:</label>
+      <input type="email" id="email" name="email" placeholder="mvaldy0@email.com" required/>
+      <label for="number" id="number-label"> Age:</label>
+      <input type="number" id="number" name="number" placeholder="1" min="1" max="120"/>
+      </fieldset>
+      <!--A dropdown element goes here-->
+      <fieldset>
+      <legend>How did you find this repository?</legend>
+      <label for="dropdown">Please answer honestly</label>
+      <select id="dropdown">
+        <option value="M-Valdy's-relatives-told-me">One of M-Valdy's relatives told me</option>
+        <option value="M-Valdy-told-me">M-Valdy told me</option>
+        <option value="found-on-accident">Found it on accident</option>
+      <option value="job-applications">Found it through M-Valdy's job applications</option>
+      <option value="other">Other</option>
+      </select>
+      </fieldset>
+      <!--Radio Element goes here-->
+      <fieldset>
+        <legend>What do you think of the projects so far?</legend>
+        <label for="horrible">Horrible</label>
+        <input type="radio" id="horrible" name="opinion" value="horrible"/>
+        <label for="mediocre">Mediocre</label>
+        <input type="radio" id="mediocre" name="opinion" value="mediocre"/>
+        <label for="lovely">Lovely</label>
+        <input type="radio" id="lovely" name="opinion" value="lovely"/>
+      </fieldset>
+       <!--Checkbox Element goes here-->
+      <fieldset>
+        <legend>What would you like to see improved? (Check all that apply)</legend>
+        <label for="ogranization">Organization</label>
+        <input 
+        type="checkbox"
+        id="organization" 
+        name="organization"
+        value="organization"
+        />
+        <label for="design">Design</label>
+        <input
+        type="checkbox"
+        id="design"
+        name="design"
+        value="design"
+        />
+        <label for="accessibility">Accessibility</label>
+        <input
+        type="checkbox"
+        id="accessibility"
+        name="accessibility"
+        value="accessibility"
+        />
+        <label for="length">Length</label>
+        <input
+        type="checkbox"
+        id="length"
+        name="length"
+        value="length"
+        />
+        <label for="learn-more">Just learn more stuff</label>
+        <input
+        type="checkbox"
+        id="learn-more"
+        name="learn-more"
+        value="learn-more"
+        />
+      </fieldset>
+      <!--textarea goes here-->
+      <label for="comments">Any additional comments?</label>
+      <textarea
+      rows="10"
+      cols="30"
+      id="comments"
+      name="comments">Please leave any additional comments or suggestions here</textarea>
+      <!--submit button goes here-->
+      <button type="submit" id="submit">Submit</button>
+    </form>
+  </body>
+</html>
