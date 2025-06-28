@@ -8,7 +8,7 @@ This repository contains all of the personal projects that I did in FreeCodeCamp
 
 A simple HTML page that displays a strawberry milk recipe.
 
--  **Live site**: [View Recipe](https://m-valdy.github.io/Recipe-Page/strawberr_milk_recipe.html)
+-  **Live site**: [View Recipe](https://m-valdy.github.io/HTML_Recipe-Page/strawberr_milk_recipe.html)
 -  **File**: `strawberr_milk_recipe.html`
 -  **Tools**: HTML5
 
@@ -18,7 +18,7 @@ A simple HTML page that displays a strawberry milk recipe.
 
 A fun HTML page showcasing cat photos, built while learning semantic structure and image embedding.
 
--  **Live site**: [View Cat Photos](https://m-valdy.github.io/Recipe-Page/cat_photos.html)
+-  **Live site**: [View Cat Photos](https://m-valdy.github.io/HTML_Recipe-Page/cat_photos.html)
 -  **File**: `cat_photos.html`
 -  **Tools**: HTML5
 
@@ -27,7 +27,7 @@ A fun HTML page showcasing cat photos, built while learning semantic structure a
 
 A very basic HTML5 Travel Agency page built while reviewing basic HTML structures along with learning about the figcaption, anchor, and figure elements.
 
--  **Live site**: [View Page](https://m-valdy.github.io/Recipe-Page/travel_agency_page.html)
+-  **Live site**: [View Page](https://m-valdy.github.io/HTML_Recipe-Page/travel_agency_page.html)
 -  **File**: `travel_agency_page.html`
 -  **Tools**: HTML5
 
@@ -37,7 +37,7 @@ A very basic HTML5 Travel Agency page built while reviewing basic HTML structure
 A simple HTML Page containing videos with the three traditional mysteries of the rosary (excluding Luminous), 
 mostly built to learn about iframe and its attributes.
 
--  **Live site**: [View Video Compilation](https://m-valdy.github.io/Recipe-Page/video_compilation.html)
+-  **Live site**: [View Video Compilation](https://m-valdy.github.io/HTML_Recipe-Page/video_compilation.html)
 -  **File**: `video_compilation.html`
 -  **Tools**: HTML5
 
@@ -45,7 +45,7 @@ mostly built to learn about iframe and its attributes.
 ### 5. 🐾 Blog Page
 A simple HTML blog about Mr. Whiskers using semantic elements including the main, nav, article and footer elements of HTML.
 
--  **Live site**: [View Blog Page](https://m-valdy.github.io/Recipe-Page/cat_blog_page.html)
+-  **Live site**: [View Blog Page](https://m-valdy.github.io/HTML_Recipe-Page/cat_blog_page.html)
 -  **File**: `cat_blog_page.html`
 -  **Tools**: HTML5
 
@@ -53,7 +53,7 @@ A simple HTML blog about Mr. Whiskers using semantic elements including the main
 ### 6. 💻 Event Hub
 A simple HTML page containing pictures and descriptions with some of the events in MRUHacks, mostly involved reviewing semantic HTML. 
 
-- **Live site**: [View Event Hub](https://m-valdy.github.io/Recipe-Page/event_hub.html)
+- **Live site**: [View Event Hub](https://m-valdy.github.io/HTML_Recipe-Page/event_hub.html)
 - **File**: `event_hub.html`
 - **Tools**: HTML5
 
@@ -61,7 +61,7 @@ A simple HTML page containing pictures and descriptions with some of the events 
 ### 7. 🏨 Hotel Feedback Page
 A simple HTML form that was mostly made to learn new elements such as labels, inputs, fieldsets, legends, textareas and buttons.
 
-- **Live site**: [View Feedback Page](https://m-valdy.github.io/Recipe-Page/hotel_feedback_page.html)
+- **Live site**: [View Feedback Page](https://m-valdy.github.io/HTML_Recipe-Page/hotel_feedback_page.html)
 - **File**: `hotel_feedback_page.html`
 - **Tools**: HTML5
 
@@ -69,7 +69,7 @@ A simple HTML form that was mostly made to learn new elements such as labels, in
 ### 8. 📋 Survey Form
 A simple HTML survey form that surveys how much you like this repository (it doesn't actually work since idk backend)
 
-- **Live site**: [View Form](https://m-valdy.github.io/Recipe-Page/survey_form.html)
+- **Live site**: [View Form](https://m-valdy.github.io/HTML_Recipe-Page/survey_form.html)
 - **File**: `survey_form.html`
 - **Tools**: HTML5
 
@@ -78,7 +78,7 @@ A simple HTML survey form that surveys how much you like this repository (it doe
 ### 9. 📚 Book Catalog Table
 A table made to practice skills with HTML Tables (its apparently outdated nowadays, so I only put this assignment in here).
 
-- **Live site**: [View Catalog Table](htps:m-valdy.github.io/Recipe-Page/book_catalog_table.html)
+- **Live site**: [View Catalog Table](htps:m-valdy.github.io/HTML_Recipe-Page/book_catalog_table.html)
 - **File**: `book_catalog_table.html`
 - **Tools**: HTML5
 
