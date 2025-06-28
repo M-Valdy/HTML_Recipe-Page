@@ -66,19 +66,20 @@ A simple HTML form that was mostly made to learn new elements such as labels, in
 - **Tools**: HTML5
 
 ---
-### 8. 📚 Book Catalog Table
-A table made to practice skills with HTML Tables (which is apparently outdated nowadays).
-
-- **Live site**: [View Catalog Table](htps:m-valdy.github.io/Recipe-Page/book_catalog_table.html)
-- **File**: `book_catalog_table.html`
-- **Tools**: HTML5
-
----
-### 9. 📋 Survey Form
+### 8. 📋 Survey Form
 A simple HTML survey form that surveys how much you like this repository (it doesn't actually work since idk backend)
 
 - **Live site**: [View Form](https://m-valdy.github.io/Recipe-Page/survey_form.html)
 - **File**: `survey_form.html`
+- **Tools**: HTML5
+
+---
+
+### 9. 📚 Book Catalog Table
+A table made to practice skills with HTML Tables (its apparently outdated nowadays, so I only put this assignment in here).
+
+- **Live site**: [View Catalog Table](htps:m-valdy.github.io/Recipe-Page/book_catalog_table.html)
+- **File**: `book_catalog_table.html`
 - **Tools**: HTML5
 
 ---
