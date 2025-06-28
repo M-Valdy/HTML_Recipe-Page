@@ -78,7 +78,7 @@ A simple HTML survey form that surveys how much you like this repository (it doe
 ### 9. 📚 Book Catalog Table
 A table made to practice skills with HTML Tables (its apparently outdated nowadays, so I only put this assignment in here).
 
-- **Live site**: [View Catalog Table](htps:m-valdy.github.io/HTML_Recipe-Page/book_catalog_table.html)
+- **Live site**: [View Catalog Table](https:m-valdy.github.io/HTML_Recipe-Page/book_catalog_table.html)
 - **File**: `book_catalog_table.html`
 - **Tools**: HTML5
 
