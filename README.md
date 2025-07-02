@@ -85,12 +85,14 @@ A table made to practice skills with HTML Tables (its apparently outdated nowada
 ### 10. 🛒 Checkout Page
 A very basic checkout page in HTML with zero functionality whatsoever. Its mostly there to learn about ARIA and accessibility.
 - **Live site**: [View Checkout Page](https://m-valdy.github.io/HTML_Recipe-Page/checkout_page.html)
+
 - **File**: `checkout_page.html`
 - **Tools**: HTML5
 
 ---
 ### 11. 🍿 Movie Review Page
 A basic movie review page made out of HTML of KPOP Demon Hunters, mostly based of reviews from my cousin and people online. Again it was done to review basic concepts related to ARIA and accessibility.
+
 - **Live site**: [View Movie Review](https://m-valdy.github.io/HTML_Recipe-Page/movie_review_page.html)
 - **File**: `movie_review_page.html`
 - **Tools**: HTML5
