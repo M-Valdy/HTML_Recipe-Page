@@ -87,6 +87,7 @@ A very basic checkout page in HTML with zero functionality whatsoever. Its mostl
 - **Live site**: [View Checkout Page](https://m-valdy.github.io/HTML_Recipe-Page/checkout_page.html)
 - **File**: `checkout_page.html`
 - **Tools**: HTML5
+
 ---
 ##  Deployment
 
