@@ -74,7 +74,6 @@ A simple HTML survey form that surveys how much you like this repository (it doe
 - **Tools**: HTML5
 
 ---
-
 ### 9. 📚 Book Catalog Table
 A table made to practice skills with HTML Tables (its apparently outdated nowadays, so I only put this assignment in here).
 
