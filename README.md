@@ -84,8 +84,8 @@ A table made to practice skills with HTML Tables (its apparently outdated nowada
 ---
 ### 10. 🛒 Checkout Page
 A very basic checkout page in HTML with zero functionality whatsoever. Its mostly there to learn about ARIA and accessibility.
-- **Live site**: [View Checkout Page](https://m-valdy.github.io/HTML_Recipe-Page/checkout_page.html)
 
+- **Live site**: [View Checkout Page](https://m-valdy.github.io/HTML_Recipe-Page/checkout_page.html)
 - **File**: `checkout_page.html`
 - **Tools**: HTML5
 
