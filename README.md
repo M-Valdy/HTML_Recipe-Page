@@ -98,6 +98,14 @@ A basic movie review page made out of HTML of KPOP Demon Hunters, mostly based o
 - **Tools**: HTML5
 
 ---
+### 12. 🎭 Multimedia Player
+A basic multimedia player page containing an audio and a video of Der Hölle Rache by Wolfgang Amadeus Mozart. It was mostly a review of accessibility but it also served as a way for me to learn about the audio and video elements of html. (hardest one so far)
+
+- **Live site**: [View Multimedia Player](https://m-valdy.github.io/HTML_Recipe-Page/multimedia_player.html)
+- **File**: `multimedia_player.html`
+- **Tools**: HTML5
+
+---
 ##  Deployment
 
 These projects are deployed via **GitHub Pages**.  
