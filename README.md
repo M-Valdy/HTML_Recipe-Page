@@ -1,5 +1,7 @@
 #  HTML Recipe Page
 
+## NOTE: I am officially done with all of the projects in my HTML module, the other projects are located in other repositories for their own recipe pages.
+
 This repository contains all of the personal projects that I did in FreeCodeCamp in Pure HTML. Its called the Recipe Page because this is where I cook. Other recipes (Python, CSS, etc. ) will come in later through an entirely different repository.
 
 ##  Projects
